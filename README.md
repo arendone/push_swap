@@ -29,3 +29,4 @@ To do this you have the following operations at your disposal:
 - sort more than 5 elements. Cutting stack into Chunks.
 
 \* The program was evaluated with maximum points. No bonus.
+\* The program uses the library libft, you can download it in my account and add it to this folder.
